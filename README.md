@@ -4,4 +4,6 @@ I am a Software Developer currently working at eTech Ict Solutions. Recently, I 
 ## Skills
 > Java Programming,
 > Python Programming,
-> Data Analysis,
+> Pandas Library,
+> Power BI,
+> SQL
