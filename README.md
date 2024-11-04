@@ -5,6 +5,7 @@ A student at Alx Africa, I am currently immersed in the Alx Data Analytics Progr
 > Angular Framework,
 > Javascript,
 > Java Programming,
+> Jupiter Notebook,
 > Microsoft Excel,
 > Python Programming,
 > Pandas Library,
